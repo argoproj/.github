@@ -1,1 +1,1 @@
-![Community Board](community-board.png)
+![Community Board](profile/community-board.png)
